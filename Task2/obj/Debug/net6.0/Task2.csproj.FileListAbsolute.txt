@@ -1,0 +1,15 @@
+/Users/alinaurkova/Desktop/git_hw/Task2/bin/Debug/net6.0/Task2
+/Users/alinaurkova/Desktop/git_hw/Task2/bin/Debug/net6.0/Task2.deps.json
+/Users/alinaurkova/Desktop/git_hw/Task2/bin/Debug/net6.0/Task2.runtimeconfig.json
+/Users/alinaurkova/Desktop/git_hw/Task2/bin/Debug/net6.0/Task2.dll
+/Users/alinaurkova/Desktop/git_hw/Task2/bin/Debug/net6.0/Task2.pdb
+/Users/alinaurkova/Desktop/git_hw/Task2/obj/Debug/net6.0/Task2.csproj.AssemblyReference.cache
+/Users/alinaurkova/Desktop/git_hw/Task2/obj/Debug/net6.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinaurkova/Desktop/git_hw/Task2/obj/Debug/net6.0/Task2.AssemblyInfoInputs.cache
+/Users/alinaurkova/Desktop/git_hw/Task2/obj/Debug/net6.0/Task2.AssemblyInfo.cs
+/Users/alinaurkova/Desktop/git_hw/Task2/obj/Debug/net6.0/Task2.csproj.CoreCompileInputs.cache
+/Users/alinaurkova/Desktop/git_hw/Task2/obj/Debug/net6.0/Task2.dll
+/Users/alinaurkova/Desktop/git_hw/Task2/obj/Debug/net6.0/refint/Task2.dll
+/Users/alinaurkova/Desktop/git_hw/Task2/obj/Debug/net6.0/Task2.pdb
+/Users/alinaurkova/Desktop/git_hw/Task2/obj/Debug/net6.0/Task2.genruntimeconfig.cache
+/Users/alinaurkova/Desktop/git_hw/Task2/obj/Debug/net6.0/ref/Task2.dll
